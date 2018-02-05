@@ -51,6 +51,11 @@ This function essentially indicates to the contract (and subsequently the token 
 
 After this step, the user need only observe transactions passing through the bridge and on the Aion network (for both of which we will provide front-ends) to verify that the tokens have been properly allocated. Experienced users will opt to interact with the blockchain directly by syncing up a Aion node.
 
+## Interacting with the Bridge through Front-end
+
+To facilitate the process of transferring AION ERC20 Tokens to AION, we may provide integration with existing services or implement a dedicated GUI frontend to smoothly manage the process. More details will be released as the project progresses into production.
+
+
 # Resources
 
 [1] https://github.com/aionnetwork/aion/wiki/Command-Line-Interface
